@@ -213,9 +213,9 @@ params:
         - text: Wer wir sind
           link: /
         - text: Datenschutz
-          link: /
+          link: /datenschutz
         - text: Impressum
-          link: /
+          link: /impressum
 #        - text: Developers
 #          link: /
 #      column3:
