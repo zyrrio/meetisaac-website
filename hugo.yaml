@@ -40,7 +40,7 @@ params:
     # Main hero title
     title: Einfach lernen
     # Hero subtitle (optional)
-    subtitle: Organisiere die Weiterbildung in deinem Unternehmen
+    subtitle: Entfalte menschliches Potential durch Weiterbildung
     # Button text
     buttontext: Erfahre mehr
     # Where the main hero button links to
@@ -50,16 +50,16 @@ params:
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
-    - logo: systek
-      url: https://google.com
-    - logo: tribe
-      url: https://stefma.github.io/hugo-fresh/
-    - logo: kromo
-      url: https://github.com/StefMa/hugo-fresh
-    - logo: infinite
-      url: https://hugo-fresh.vercel.app/
-    - logo: gutwork
-      url: https://bulma.io/
+#    - logo: systek
+#      url: https://google.com
+#    - logo: tribe
+#      url: https://stefma.github.io/hugo-fresh/
+#    - logo: kromo
+#      url: https://github.com/StefMa/hugo-fresh
+#    - logo: infinite
+#      url: https://hugo-fresh.vercel.app/
+#    - logo: gutwork
+#      url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
 #  - title: Features
@@ -77,7 +77,7 @@ params:
 #  - title: Log in
 #    url: /
   - title: Kontakt
-    url: /
+    url: /#section5
     button: true
 #  sidebar:
 #    # Logo (from /images/logos/___.svg)
@@ -133,8 +133,8 @@ params:
       url: /#section5
       buttonText: Kontakt
   section2:
-    title: Du möchtest die bestmögliche Weiterbildung ermöglichen
-    subtitle: für den Job und für das Leben
+    title: Biete sinnvolle Weiterbildung
+    subtitle: für erfolgreiche und motivierte Mitarbeiter
     features:
     - title: Ein Katalog für alle Weiterbildungen
       text: Eine Übersicht aller Angebote zur Weiterbildung für alle Mitarbeiter\*innen. Egal ob Konferenz, Workshop oder selbst-organisiertes Lernen - Mitarbeiter*innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
