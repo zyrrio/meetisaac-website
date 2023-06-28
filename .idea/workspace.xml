@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7d4938-7ab5-4749-8555-7e642f60b5e5" name="Changes" comment="added datenschutz page&#10;chore: added .gitignore">
-      <change afterPath="$PROJECT_DIR$/layouts/partials/section1.html" afterDir="false" />
+    <list default="true" id="4d7d4938-7ab5-4749-8555-7e642f60b5e5" name="Changes" comment="removed buttons in section1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686667650349</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed buttons in section1">
+      <created>1687958663574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687958663574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +94,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="chore: added .gitignore" />
     <MESSAGE value="added datenschutz page&#10;chore: added .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added datenschutz page&#10;chore: added .gitignore" />
+    <MESSAGE value="removed buttons in section1" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed buttons in section1" />
   </component>
 </project>
