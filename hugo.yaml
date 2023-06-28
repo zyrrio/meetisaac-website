@@ -40,7 +40,7 @@ params:
     # Main hero title
     title: Einfach lernen
     # Hero subtitle (optional)
-    subtitle: Entfalte menschliches Potential durch Weiterbildung
+    subtitle: Ermögliche sinnvolle Weiterbildung in deinem Unternehmen
     # Button text
     buttontext: Erfahre mehr
     # Where the main hero button links to
@@ -114,14 +114,14 @@ params:
 #      - text: App settings
 #        url: /
   section1:
-    title: Fokus auf Weiterbildung
+    title: Fokusiere dich auf Weiterbildung
     subtitle: nicht aufs Organisieren
     tiles:
     - title: Weiterbildungskatalog
       icon: mouse-globe
       text: Eine zentrale Übersicht über dein Weiterbildungsangebot
-      url: /#section5
-      buttonText: Kontakt
+#      url: /#section5
+#y      buttonText: Kontakt
     - title: Event Management
       icon: laptop-cloud
       text: Einfache Organisation von Weiterbildungs-Events
