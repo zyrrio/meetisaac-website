@@ -172,7 +172,7 @@ params:
     title: Schreibe uns
     subtitle: Wir freuen uns von dir zu hören
     buttonText: Senden
-    action: https://getform.io/f/db5f7d1f-fe2c-4b00-9256-9783f30079ad
+    action: https://usebasin.com/f/a475799c2c5c
     method: POST
   footer:
     # Logo (from /images/logos/___)
