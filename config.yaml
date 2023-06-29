@@ -149,7 +149,7 @@ params:
   section3:
     title: meet.isaac
     subtitle: Endlich lernen
-    image: illustrations/mockups/app-mockup.png
+    image: /screenshot.png
     buttonText: Kontakt
     buttonLink: "#section5"
 #  section4:
@@ -194,8 +194,19 @@ params:
       icon: bitbucket
     bulmalogo: false
     quicklinks:
-#      column1:
-#        title: "Product"
+      column1:
+        title: "Über uns"
+        links:
+          - text: Wer wir sind
+            link: /
+          - text: Datenschutz
+            link: /datenschutz
+          - text: Impressum
+            link: /impressum
+      #        - text: Developers
+      #          link: /
+      column2:
+        title: ""
 #        links:
 #        - text: Discover features
 #          link: /
@@ -207,19 +218,8 @@ params:
 #          link: /
 #        - text: AGB
 #          link: /agb
-      column2:
-        title: "Über uns"
-        links:
-        - text: Wer wir sind
-          link: /
-        - text: Datenschutz
-          link: /datenschutz
-        - text: Impressum
-          link: /impressum
-#        - text: Developers
-#          link: /
-#      column3:
-#        title: "Blog"
+      column3:
+        title: ""
 #        links:
 #        - text: Latest news
 #          link: /blog/first
