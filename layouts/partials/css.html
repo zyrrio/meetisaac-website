@@ -27,4 +27,26 @@
     .feature-card {
         height: 285px;
     }
+    @media (max-width: 768px) {
+        .media {
+            display: block;
+        }
+        .media .image {
+            width: 300px;
+        }
+        .media-content {
+            margin-top: 0;
+        }
+        .pushed-image {
+            width: 350px;
+            height: 195px;
+            object-fit: none;
+            object-position: 0 0;
+        }
+    }
+    .pushed-image {
+        border: solid #ededed;
+        border-radius: 6px;
+        border-width: 1px;
+    }
 </style>
