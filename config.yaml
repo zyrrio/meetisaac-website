@@ -198,7 +198,7 @@ params:
         title: "Über uns"
         links:
           - text: Wer wir sind
-            link: /
+            link: /ueberuns
           - text: Datenschutz
             link: /datenschutz
           - text: Impressum
