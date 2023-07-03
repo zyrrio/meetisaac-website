@@ -119,19 +119,19 @@ params:
     tiles:
     - title: Weiterbildungsangebot
       icon: mouse-globe
-      text: Eine zentrale Übersicht über deinen Weiterbildungskatalog
-#      url: /#section5
-#y      buttonText: Kontakt
+      text: Eine Übersicht über deinen Weiterbildungskatalog
+      url: /angebot
+      buttonText: Mehr erfahren
     - title: Event Management
       icon: laptop-cloud
       text: Einfache Organisation von Weiterbildungs-Events
-      url: /#section5
-      buttonText: Kontakt
+      url: /event
+      buttonText: Mehr erfahren
     - title: Entwicklungspfade
       icon: plug-cloud
       text: Zugeschnittene Weiterbildung für alle
-      url: /#section5
-      buttonText: Kontakt
+      url: /entwicklungspfad
+      buttonText: Mehr erfahren
   section2:
     title: Biete sinnvolle Weiterbildung
     subtitle: für erfolgreiche und motivierte Mitarbeiter
