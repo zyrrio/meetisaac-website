@@ -38,7 +38,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Entwickelt für HR, gemacht für deine Mitarbeiter
+    title: Entwickelt für HR, gemacht für deine Mitarbeiter:innen
     # Hero subtitle (optional)
     subtitle: Vereinfache die Weiterbildung in deinem Unternehmen und entfalte das volle Potenzial.
     # Button text
@@ -76,7 +76,7 @@ params:
 #      url: /
 #  - title: Log in
 #    url: /
-  - title: Kontakt
+  - title: Schreibe uns
     url: /#section5
     button: true
 #  sidebar:
@@ -114,8 +114,8 @@ params:
 #      - text: App settings
 #        url: /
   section1:
-    title: Fokussiere dich auf Weiterbildung
-    subtitle: nicht aufs Organisieren
+    title: Hilf deinen Mitarbeiter:innen
+    subtitle: sich auf ihre Weiterbildung zu konzentrieren, nicht aufs Organisieren
     tiles:
     - title: Weiterbildungsangebot
       icon: mouse-globe
@@ -140,17 +140,17 @@ params:
       text: Eine Übersicht aller Angebote zur Weiterbildung für alle Mitarbeiter\*innen. Egal ob Konferenz, Workshop oder selbst-organisiertes Lernen - Mitarbeiter*innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Kommunikation über bestehende Kanäle
+    - title: Outlook statt noch ein Tool
       text: Nutze bestehende Tools für die Kommunikation. Mitarbeiter*innen erhalten Termineinladungen in ihren Kalender. Zu- und Absagen werden erfasst, Wartelisten automatisiert.
       icon: doc-sync
-    - title: Auswertungen & datengetriebene Entwicklungspfade
-      text: Treffe Entscheidungen basiert auf Daten. Gestalte Entwicklungspfade und verbessere das Weiterbildungsangebot auf Basis von Feedback und bestehenden Entwicklungspfaden in deinem Unternehmen.
+    - title: Datengetrieben statt hierarchisch
+      text: Treffe Entscheidungen basierend auf Daten. Gestalte Entwicklungspfade und verbessere das Weiterbildungsangebot auf Basis von Feedback und bestehenden Entwicklungspfaden in deinem Unternehmen.
       icon: mobile-feed
   section3:
     title: meet.isaac
     subtitle: Endlich lernen
     image: /screenshot.png
-    buttonText: Kontakt
+    buttonText: Schreibe uns
     buttonLink: "#section5"
 #  section4:
 #    title: Our Clients love us!
