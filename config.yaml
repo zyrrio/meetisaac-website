@@ -40,7 +40,7 @@ params:
     # Main hero title
     title: Entwickelt für HR, gemacht für deine Mitarbeiter:innen
     # Hero subtitle (optional)
-    subtitle: Vereinfache die Weiterbildung in deinem Unternehmen und entfalte das volle Potenzial.
+    subtitle: Vereinfache die Weiterbildung deiner Mitarbeiter:innen und entfalte ihr volles Potenzial
     # Button text
     buttontext: Erfahre mehr
     # Where the main hero button links to
@@ -115,40 +115,41 @@ params:
 #        url: /
   section1:
     title: Hilf deinen Mitarbeiter:innen
-    subtitle: sich auf ihre Weiterbildung zu konzentrieren, nicht aufs Organisieren
+    subtitle: bei ihrer Weiterentwicklung
     tiles:
     - title: Weiterbildungsangebot
       icon: mouse-globe
-      text: Eine Übersicht über deinen Weiterbildungskatalog
+      text: Ermögliche deinen Mitarbeiter:innen geeignete Trainings zu finden
       url: /angebot
       buttonText: Mehr erfahren
     - title: Event Management
       icon: laptop-cloud
-      text: Einfache Organisation von Weiterbildungs-Events
+      text: Vereinfache die Organisation von Events - von der Planung bis zum Feedback
       url: /event
       buttonText: Mehr erfahren
     - title: Entwicklungspfade
       icon: plug-cloud
-      text: Zugeschnittene Weiterbildung für alle
+      text: Schaffe transparente und individuelle Entwicklungspfade
       url: /entwicklungspfad
       buttonText: Mehr erfahren
   section2:
     title: Biete sinnvolle Weiterbildung
     subtitle: für erfolgreiche und motivierte Mitarbeiter
     features:
-    - title: Ein Katalog für alle Weiterbildungen
-      text: Eine Übersicht aller Angebote zur Weiterbildung für alle Mitarbeiter\*innen. Egal ob Konferenz, Workshop oder selbst-organisiertes Lernen - Mitarbeiter*innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
+    - title: Selbstorganisiert
+      text: Egal ob Konferenz, Workshop oder eigenständiges Lernen - Mitarbeiter*innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Outlook statt noch ein Tool
-      text: Nutze bestehende Tools für die Kommunikation. Mitarbeiter*innen erhalten Termineinladungen in ihren Kalender. Zu- und Absagen werden erfasst, Wartelisten automatisiert.
-      icon: doc-sync
-    - title: Datengetrieben statt hierarchisch
-      text: Treffe Entscheidungen basierend auf Daten. Gestalte Entwicklungspfade und verbessere das Weiterbildungsangebot auf Basis von Feedback und bestehenden Entwicklungspfaden in deinem Unternehmen.
+    - title: Datengetrieben
+      text: |
+        Treffe Entscheidungen datenbasiert. Nutze Feedback zur laufenden Verbesserung deines Angebots und erstelle Entwicklungspfade auf Basis bestehender Informationen.
       icon: mobile-feed
+    - title: Integriert
+      text: Nutze deine bestehenden Tools. Mitarbeiter*innen verwalten ihre Teilnahme direkt über ihren Kalender. Zu- und Absagen werden erfasst, Wartelisten automatisiert.
+      icon: doc-sync
   section3:
-    title: meet.isaac
-    subtitle: Endlich lernen
+    title: meet.isaac (Logo)
+    subtitle: Subtitle
     image: /screenshot.png
     buttonText: Schreibe uns
     buttonLink: "#section5"
