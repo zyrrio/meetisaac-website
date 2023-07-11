@@ -137,7 +137,7 @@ params:
     subtitle: für erfolgreiche und motivierte Mitarbeiter
     features:
     - title: Selbstorganisiert
-      text: Egal ob Konferenz, Workshop oder eigenständiges Lernen - Mitarbeiter*innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
+      text: Egal ob Konferenz, Workshop oder eigenständiges Lernen - Mitarbeiter:innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: people
     - title: Datengetrieben
@@ -145,7 +145,7 @@ params:
         Treffe Entscheidungen datenbasiert. Nutze Feedback zur laufenden Verbesserung deines Angebots und erstelle Entwicklungspfade auf Basis bestehender Informationen.
       icon: chart
     - title: Integriert
-      text: Nutze deine bestehenden Tools. Mitarbeiter*innen verwalten ihre Teilnahme direkt über ihren Kalender. Zu- und Absagen werden erfasst, Wartelisten automatisiert.
+      text: Nutze deine bestehenden Tools. Mitarbeiter:innen verwalten ihre Teilnahme direkt über ihren Kalender. Zu- und Absagen werden erfasst, Wartelisten automatisiert.
       icon: network
   section3:
     title: meet.isaac (Logo)
