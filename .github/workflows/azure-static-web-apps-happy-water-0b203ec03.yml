@@ -34,6 +34,13 @@ jobs:
           ###### End of Repository/Build Configurations ######
         env:
           HUGO_VERSION: 0.111.3
+      - name: Check for broken links
+        id: link-report
+        uses: ruzickap/action-my-broken-link-checker@v2
+        with:
+          url: "${{ steps.builddeploy.outputs.static_web_app_url }}"
+          cmd_params: "--buffer-size=8192 --max-connections=10 --color=always --verbose"
+          run_timeout: 60
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
