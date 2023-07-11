@@ -26,7 +26,8 @@
     }
     @media (max-width: 768px) {
         .media {
-            display: block;
+            flex-direction: column;
+            align-items: center;
         }
         .media .image {
             width: 300px;
@@ -45,5 +46,12 @@
         border: solid #ededed;
         border-radius: 6px;
         border-width: 1px;
+    }
+    .feature-card {
+        height: 285px;
+    }
+    .media-content {
+        margin-top: 0;
+        align-self: center;
     }
 </style>

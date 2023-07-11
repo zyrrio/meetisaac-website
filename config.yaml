@@ -118,17 +118,17 @@ params:
     subtitle: bei ihrer Weiterentwicklung
     tiles:
     - title: Weiterbildungsangebot
-      icon: mouse-globe
+      icon: books
       text: Ermögliche deinen Mitarbeiter:innen geeignete Trainings zu finden
       url: /angebot
       buttonText: Mehr erfahren
     - title: Event Management
-      icon: laptop-cloud
+      icon: calendar
       text: Vereinfache die Organisation von Events - von der Planung bis zum Feedback
       url: /event
       buttonText: Mehr erfahren
     - title: Entwicklungspfade
-      icon: plug-cloud
+      icon: signs-post
       text: Schaffe transparente und individuelle Entwicklungspfade
       url: /entwicklungspfad
       buttonText: Mehr erfahren
@@ -139,14 +139,14 @@ params:
     - title: Selbstorganisiert
       text: Egal ob Konferenz, Workshop oder eigenständiges Lernen - Mitarbeiter*innen und Führungskräfte kennen das Angebot und können es gemeinsam laufend verbessern.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: people
     - title: Datengetrieben
       text: |
         Treffe Entscheidungen datenbasiert. Nutze Feedback zur laufenden Verbesserung deines Angebots und erstelle Entwicklungspfade auf Basis bestehender Informationen.
-      icon: mobile-feed
+      icon: chart
     - title: Integriert
       text: Nutze deine bestehenden Tools. Mitarbeiter*innen verwalten ihre Teilnahme direkt über ihren Kalender. Zu- und Absagen werden erfasst, Wartelisten automatisiert.
-      icon: doc-sync
+      icon: network
   section3:
     title: meet.isaac (Logo)
     subtitle: Subtitle
