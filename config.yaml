@@ -171,7 +171,7 @@ params:
 #      img: 3
   section5:
     title: Schreibe uns
-    subtitle: Wir freuen uns von dir zu hören
+    subtitle: wenn du Teil der privaten Beta sein oder dich mit uns austauschen möchtest
     buttonText: Senden
     action: https://usebasin.com/f/a475799c2c5c
     method: POST
